@@ -4,7 +4,8 @@ It’s a GUI-based project used with the Swing module to manage Electricity Bill
 
 There are two aspects of this application – Admin and Customer.
 
-The admin can create a new customer with new meter information assigned to the customer, view all customer details, and calculate the bills of all the customers. 
+The admin can create a new customer with new meter information assigned to the customer, view all customer details, and calculate the bills of all the customers.
+
 The user can create his own account after the admin has created his meter information and once the account is created user can view his account information.
 
 
@@ -74,3 +75,58 @@ Database for this Electricity Billing System contains 5 Tables
 
 
 Java communicates with MySQL tables using JDBC which stands for Java Database Connectivity.
+
+
+## Screenshots:
+
+### Customer Side:
+
+## Signup
+![Capture](https://github.com/Rajdeep-Codes/Electricity-Billing-System-Project/assets/121939861/953026e1-3343-45d2-950b-9fa961b91a11)
+
+## Login Page
+![Capture1](https://github.com/Rajdeep-Codes/Electricity-Billing-System-Project/assets/121939861/6c538dac-6928-4cd5-9cc5-083cc98fbab4)
+
+## Main Page
+![Capture2](https://github.com/Rajdeep-Codes/Electricity-Billing-System-Project/assets/121939861/5bd0b89a-5d7c-4236-a124-3da63a0bf06d)
+
+## Generate Bill
+![Capture3](https://github.com/Rajdeep-Codes/Electricity-Billing-System-Project/assets/121939861/aa09f31a-2b2b-448c-9084-bb5c497cf8c8)
+
+## Pay Bill
+![Capture4](https://github.com/Rajdeep-Codes/Electricity-Billing-System-Project/assets/121939861/6ca73896-7e38-48ec-b0c5-d76ac82d0da9)
+
+## Payment Page Of Paytm
+![5](https://github.com/Rajdeep-Codes/Electricity-Billing-System-Project/assets/121939861/a023873d-ae53-4c13-b273-629af3674088)
+
+## Bill Details
+![6](https://github.com/Rajdeep-Codes/Electricity-Billing-System-Project/assets/121939861/f70361c9-e3c0-473f-9f70-6bdadff1992e)
+
+## Update Customer Information
+![7](https://github.com/Rajdeep-Codes/Electricity-Billing-System-Project/assets/121939861/04e42f64-580f-482f-b2a2-904a15dc6b0d)
+
+## View Customer Information
+![8](https://github.com/Rajdeep-Codes/Electricity-Billing-System-Project/assets/121939861/8d6e02c3-ec38-4bae-b417-6cfc9f383de5)
+
+### Admin Side:
+
+## Add New Customer
+![9](https://github.com/Rajdeep-Codes/Electricity-Billing-System-Project/assets/121939861/cfc4088f-a987-43d8-a7d7-47c148530b63)
+
+## Customer Details
+![10](https://github.com/Rajdeep-Codes/Electricity-Billing-System-Project/assets/121939861/326f4e58-be33-41bf-8496-c444e2fbc448)
+
+## Calculate Electricity Bill
+![11](https://github.com/Rajdeep-Codes/Electricity-Billing-System-Project/assets/121939861/012aab80-7f1c-4d6d-99e5-a847410d3fcd)
+
+
+
+
+
+
+
+
+
+
+
+
