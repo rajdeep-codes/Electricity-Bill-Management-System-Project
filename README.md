@@ -1,5 +1,12 @@
 # Electricity-Billing-System-Project
 
+
+## Video Output:
+
+https://github.com/rajdeep-codes/Electricity-Bill-Management-System-Project/assets/121939861/c7187d35-bf29-4e28-bae2-6a3e98231ed9
+
+
+
 It’s a GUI-based project used with the Swing module to manage Electricity Bill Management System in Java.
 
 There are two aspects of this application – Admin and Customer.
