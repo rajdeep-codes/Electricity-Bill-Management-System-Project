@@ -7,7 +7,7 @@ https://github.com/rajdeep-codes/Electricity-Bill-Management-System-Project/asse
 
 
 
-It’s a GUI-based project used with the Swing module to manage Electricity Bill Management System in Java.
+The Java project on Electricity Bill Management System using Java Swing concepts creates a desktop application to manage electricity billing. It features a user-friendly interface for inputting customer details, recording meter readings, calculating bills, and generating printable statements.
 
 There are two aspects of this application – Admin and Customer.
 
